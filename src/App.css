@@ -21,3 +21,25 @@ body {
   padding: 0;
   margin: 0;
 }
+
+.close-btn {
+  background-color: rgb(228, 54, 54);
+  border: none;
+  font-size: 18px;
+  color: white;
+  border-radius: 8px;
+  font-size: 20px;
+  cursor: pointer;
+  padding: 10px 16px;
+}
+.open-btn {
+  width: 150px;
+  height: 45px;
+  margin: 10px;
+  border: none;
+  background-color: rgb(140, 219, 195);
+  color: white;
+  border-radius: 8px;
+  font-size: 20px;
+  cursor: pointer;
+}
